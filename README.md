@@ -74,18 +74,18 @@ Chrome Extension ———> Spring Boot API ———> Gemini API
 <table>
   <tr>
     <td align="center">
-      <img width="400" height="310" alt="Generating Reply (UI)" src="https://github.com/user-attachments/assets/db19f694-f6e1-4547-997c-c6b11cdcd098" />
+      <img width="400" height="310" alt="Generating Reply (UI)" src="https://github.com/user-attachments/assets/448b2ba9-442c-48ab-b37a-70ba9a7331a6" />
       <br><strong>🟡 Generating Reply (UI)</strong>
     </td>
     <td align="center">
-      <img width="400" height="310" alt="AI Reply Interface" src="https://github.com/user-attachments/assets/5d6662d2-48ce-44a6-a0ca-c2c076022432" />
+      <img width="400" height="310" alt="AI Reply Interface" src="https://github.com/user-attachments/assets/8d8de2c6-4fc1-4a25-9b93-75ffaafb4300" />
       <br><strong>🟢 AI Reply Interface</strong>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img width="428" height="402" alt="Reply Console Logs" src="https://github.com/user-attachments/assets/8ffd74f2-685b-42ad-a6bd-beb57437a18b" />
+  <img width="400" height="310" alt="Reply Console Logs" src="https://github.com/user-attachments/assets/8ffd74f2-685b-42ad-a6bd-beb57437a18b" />
   <br><strong>🖥️ Reply Console Logs (Extension or Backend)</strong>
 </p>
 
