@@ -84,15 +84,18 @@ Chrome Extension ———> Spring Boot API ———> Gemini API
   </tr>
 </table>
 
-<p align="center">
-  <img width="250" height="310" alt="Application Interface" src="https://github.com/user-attachments/assets/05a832d0-04b0-427c-937e-cb76ed82a274" />
-  <br><strong>🖥️ Application Interface</strong>
-</p>
-
-<p align="center">
-  <img width="400" height="310" alt="Reply Console Logs" src="https://github.com/user-attachments/assets/8ffd74f2-685b-42ad-a6bd-beb57437a18b" />
-  <br><strong>🖥️ Reply Console Logs (Extension or Backend)</strong>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img width="250" height="310" alt="Application Interface" src="https://github.com/user-attachments/assets/05a832d0-04b0-427c-937e-cb76ed82a274" />
+      <br><strong>🖥️ Application Interface</strong>
+    </td>
+    <td align="center">
+      <img width="400" height="310" alt="Reply Console Logs" src="https://github.com/user-attachments/assets/8ffd74f2-685b-42ad-a6bd-beb57437a18b" />
+      <br><strong>🖥️ Reply Console Logs (Extension or Backend)</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
