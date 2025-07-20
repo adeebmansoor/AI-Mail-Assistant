@@ -87,7 +87,7 @@ Chrome Extension ———> Spring Boot API ———> Gemini API
 <table>
   <tr>
     <td align="center">
-      <img width="250" height="310" alt="Application Interface" src="https://github.com/user-attachments/assets/05a832d0-04b0-427c-937e-cb76ed82a274" />
+      <img width="400" height="310" alt="Application Interface" src="https://github.com/user-attachments/assets/05a832d0-04b0-427c-937e-cb76ed82a274" />
       <br><strong>🖥️ Application Interface</strong>
     </td>
     <td align="center">
